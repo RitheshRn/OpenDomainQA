@@ -1,12 +1,12 @@
-## Open Domain Question Answering using customized BERT-Joint model for Google Natural Questions ##
+## Open Domain Question Answering using customized BERT-Joint model for Google Natural Questions
 
-#### Goal #### : To predict short and long answer responses to real questions about Wikipedia articles.<br/>
-#### Dataset #### :<br/>
+#### Goal: To predict short and long answer responses to real questions about Wikipedia articles.<br/>
+#### Dataset:<br/>
 * Google's Natural Questions<br/>
 * Size of training set: 307,373 examples<br/>
 * Size of test and validation set: 7,842 examples ; Test set used - 350 examples<br/>
 
-#### Model #### :<br/>
+#### Model:<br/>
 * Customized Bert-Joint Model ! F1 Score - 0.7<br/>
 
 You should be able to run:
