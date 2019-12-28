@@ -1,13 +1,13 @@
-CSE 256 - Final Project - Vishwas Nagesh Moolimani and Rithesh Rampapura Narasimha Murthy
+## Open Domain Question Answering using customized BERT-Joint model for Google Natural Questions ##
 
-Goal: To predict short and long answer responses to real questions about Wikipedia articles.
-Dataset:
- Google's Natural Questions
- Size of training set: 307,373 examples
- Size of test and validation set: 7,842 examples ; Test set used - 350 examples
+#### Goal #### : To predict short and long answer responses to real questions about Wikipedia articles.<br/>
+#### Dataset #### :<br/>
+* Google's Natural Questions<br/>
+* Size of training set: 307,373 examples<br/>
+* Size of test and validation set: 7,842 examples ; Test set used - 350 examples<br/>
 
-Model:
- Customized Bert-Joint Model ! F1 Score - 0.7
+#### Model #### :<br/>
+* Customized Bert-Joint Model ! F1 Score - 0.7<br/>
 
 You should be able to run:
  > python final_run.py
